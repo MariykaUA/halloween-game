@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/halloween-game/static/css/main.ee546d80.css",
+    "main.js": "/halloween-game/static/js/main.d9c71f3c.js",
+    "index.html": "/halloween-game/index.html",
+    "main.ee546d80.css.map": "/halloween-game/static/css/main.ee546d80.css.map",
+    "main.d9c71f3c.js.map": "/halloween-game/static/js/main.d9c71f3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee546d80.css",
+    "static/js/main.d9c71f3c.js"
+  ]
+}
